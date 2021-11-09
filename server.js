@@ -1,5 +1,6 @@
 // Import Dependencies
 const express = require("express");
+const cors = require("cors");
 
 // Import JSON files
 const projects = require("./projects.json");
@@ -9,7 +10,7 @@ const about = require("./about.json");
 const app = express();
 
 // set up middleware
-app.use(express.json())
+app.use(cors());
 
 //home route for testing our app
 app.get("/", (req, res) => {
