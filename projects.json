@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NYC Trivia",
+    "live": "https://seir-penguin-project-1-it0omyzfq-maxxsaid.vercel.app",
+    "git": "https://github.com/maxxsaid/seir_penguin_project_1",
+    "image": "https://i.imgur.com/aLHUPfb.png"
+  },
+  {
+    "name": "Buckets",
+    "live": "https://ms-project2.herokuapp.com",
+    "git": "https://github.com/maxxsaid/project2",
+    "image": "https://i.imgur.com/d09MRxi.png"
+  }
+]
